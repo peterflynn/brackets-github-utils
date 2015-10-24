@@ -1,0 +1,8 @@
+{
+    "name": "pflynn.github-utils",
+    "title": "GitHub Utilities",
+    "author": "Peter Flynn",
+    "version": "1.0.0",
+    "engines": { "brackets": ">=1.0" },
+    "description": "Adds Navigate menu items to open a browser tab on GitHub for any file in your project, and to open GitHub's Blame view for the current line in the current file."
+}
